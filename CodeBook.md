@@ -1,6 +1,7 @@
 # Code Book
 a code book that describes the variables, the data, and any transformations or work that performed to clean up the data.
 
+# Data
 the data for this codebook can be found on Tidydata.txt
 
 # Variables
