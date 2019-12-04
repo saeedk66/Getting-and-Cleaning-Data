@@ -1,8 +1,8 @@
 # Code Book
-a code book that describes the variables, the data, and any transformations or work that performed to clean up the data.
+Code book that describes the variables, the data, and any transformations or work that performed to clean up the data.
 
 # Data
-the data for this codebook can be found on Tidydata.txt
+The data for this codebook can be found on Tidydata.txt
 
 # Variables
 There is 88 variables for this data set:
